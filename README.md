@@ -8,5 +8,5 @@ AND THIS CODE WILL BAN ALL MEMBERS !
 Packages : Discord.js to install npm i discord.js
 ENJOY
 EVIL
-BY : ME !
+BY : ME !! 
 xxxRevenge .
